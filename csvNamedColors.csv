@@ -33,8 +33,8 @@ CSS Level 2,coral,#ff7f50
 CSS Level 2,cornflowerblue,#6495ed
 CSS Level 2,cornsilk,#fff8dc
 CSS Level 2,crimson,#dc143c
-CSS Level 2,"cyan
-(synonym of aqua)",#00ffff
+CSS Level 2,cyan,#00ffff
+CSS Level 2,aqua,#00ffff
 CSS Level 2,darkblue,#00008b
 CSS Level 2,darkcyan,#008b8b
 CSS Level 2,darkgoldenrod,#b8860b
@@ -95,8 +95,8 @@ CSS Level 2,lightsteelblue,#b0c4de
 CSS Level 2,lightyellow,#ffffe0
 CSS Level 2,limegreen,#32cd32
 CSS Level 2,linen,#faf0e6
-CSS Level 2,"magenta
-(synonym of fuchsia)",#ff00ff
+CSS Level 2,magenta,#ff00ff
+CSS Level 2,fuchsia,#ff00ff
 CSS Level 2,mediumaquamarine,#66cdaa
 CSS Level 2,mediumblue,#0000cd
 CSS Level 2,mediumorchid,#ba55d3
